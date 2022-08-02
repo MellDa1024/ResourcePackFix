@@ -1,5 +1,5 @@
 # ResourcePackFix
-> Replace OpenFolder method to Lambda's FolderUtil to prevent this:
+> Replace ResourcePack Gui's OpenFolder method to Lambda's FolderUtil to prevent this:
 
 ![img.png](img.png)
 
