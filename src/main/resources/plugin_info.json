@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
-  "version": "1.1",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "name": "ResourcePackFix",
+  "version": "1.0",
+  "description": "Fixes Open ResourcePack Folder.",
+  "url": "https://github.com/MellDa1024/ResourcePackFix",
+  "authors": [ "MellDa" ],
+  "main_class": "com.mellda.RPFPlugin",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [ "mixins.RPFPlugin.json" ],
   "required_plugins": []
 }

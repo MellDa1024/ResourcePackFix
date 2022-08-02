@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.mellda.mixins",
+  "refmap": "mixins.RPFPlugin.refmap.json",
+  "client": [
+    "gui.MixinGuiScreenResourcePacks"
+  ]
+}
